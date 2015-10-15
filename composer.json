@@ -1,0 +1,22 @@
+{
+    "name": "rcleozier/valid",
+    "description": "A php validation utility. Helpful for validating emails, ip address and data types. Build on top of filter_var",
+    "keywords": [
+        "email validation", "validation", "filter_var", "validate"
+    ],
+    "homepage": "https://github.com/rcleozier/Valid",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robbins Cleozier",
+            "email": "rcleozier@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "support": {
+        "issues": "https://github.com/rcleozier/Valid/issues",
+        "source": "https://github.com/rcleozier/Valid"
+    }
+}
